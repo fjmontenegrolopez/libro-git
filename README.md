@@ -1,2 +1,2 @@
 # libro-git
-Libro de ejemplo sobre Git
+Libro de ejemplo sobre Git, basico
